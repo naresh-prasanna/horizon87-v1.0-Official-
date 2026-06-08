@@ -111,8 +111,4 @@ This public repository does not include:
 
 Created by **Naresh Prasanna**.
 
-Built under the proposed **Mintbyte Cognitive Systems** brand.
-
-Company incorporation is currently in process.
-
 © 2026 Naresh Prasanna. All rights reserved.
